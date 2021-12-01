@@ -2428,15 +2428,17 @@ a {
 }
 
 .btn-red {
-  background: #ec595a;
-  color: #fff;
+  /* background: #ec595a; */
+  background: #48416A;
+  color: rgb(243, 224, 224);
   border-color: #171717;
   -webkit-box-shadow: none !important;
           box-shadow: none !important;
 }
 .btn-red:hover {
-  color: #ec595a;
-  background: #171717;
+  color: #fff;
+  background: #48416A;
+  /* background: #171717; */
   border-color: #171717;
 }
 
